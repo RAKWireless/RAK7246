@@ -1,4 +1,4 @@
-# rak_common_for_gateway
+# RAK7246
 
 ##	Introduction 
 
