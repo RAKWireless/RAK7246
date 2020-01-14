@@ -2,12 +2,11 @@
 
 ##	Introduction 
 
-The aim of this project is to help users set up a LoRa network easily.
+The aim of this project is to help users set up a LoRa network using RAK7246 easily.
 
-##	Supported platforms
+##	Supported platform
 
-This project currently provides support for the below platforms.
-* RAK7246
+This project is used for RAK7246 which is RPi zero W + RAK2246 Pi Hat (SX1308) especially now.
 
 ##	Changelog
 2019-12-17 V4.1.1
