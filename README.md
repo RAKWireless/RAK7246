@@ -7,7 +7,7 @@ The aim of this project is to help users set up a LoRa network using RAK7246 eas
 ##	Supported platform
 
 This project is used for RAK7246 which is RPi zero W + RAK2246 Pi Hat (SX1308) especially now.
-![RAK7246](https://github.com/RAKWireless/Update-File/blob/master/RAK7246_4.png)
+![](https://github.com/RAKWireless/Update-File/blob/master/RAK7246_4.png)
 
 ##	Changelog
 2019-12-17 V4.1.1
