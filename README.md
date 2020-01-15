@@ -30,3 +30,8 @@ step3 : Clone the installer and start the installation.
 step4: Wait a moment and the installation is complete
 
 step5 : For more other features, please use "sudo gateway-config".
+
+
+
+About how to use RAK7246, please have a look at the document:
+https://github.com/RAKWireless/RAK7246/tree/master/doc
